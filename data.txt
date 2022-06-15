@@ -1,0 +1,14 @@
+apple 2
+orange 3
+banana 4
+chicken 5
+beans 1
+strawberry 3
+mango 7
+bread 6
+water 1
+blueberry 3
+blackberry 3
+pineapple 5
+fish 8
+turkey 12
